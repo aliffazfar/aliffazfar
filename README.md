@@ -2,7 +2,7 @@
 
 I'm Aliff from Malaysia and I love doing content on Design and Development. 
 
-I really enjoy learning new languages such as React as well as Node.js.
+I'm currently learning new languages such as React as well as Node.js and I love it.
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aliffazfar&show_icons=true&theme=dark" />
