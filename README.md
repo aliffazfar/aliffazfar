@@ -6,6 +6,6 @@ I'm currently learning new languages such as React as well as Node.js and I love
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aliffazfar&show_icons=true&theme=dark" />
-<img align="left" height="180px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliffazfar&layout=compact&theme=dark" />
+<img align="left" height="170px" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliffazfar&layout=compact&theme=dark" />
 
 
