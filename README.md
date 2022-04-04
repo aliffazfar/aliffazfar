@@ -4,7 +4,7 @@ I'm from Malaysia and I love doing content on Web Design and Development. I'm no
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aliffazfar&count_private=true&show_icons=true&theme=dark" />
-<img align="left"  height="20%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliffazfar&langs_count=8&layout=compact&theme=dark" />
+<img align="left"  height="10%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliffazfar&langs_count=8&layout=compact&theme=dark" />
 
 
 
