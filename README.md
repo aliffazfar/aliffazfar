@@ -1,4 +1,5 @@
-<img align="center" width="100%" src="./src/git2.png" />
+
+![image description](./src/git2.png)
 
 ### Hi there 👋
 
