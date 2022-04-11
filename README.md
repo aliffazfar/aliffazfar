@@ -4,7 +4,7 @@
 
 <img align="left"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliffazfar&langs_count=8&layout=compact&theme=dark" />
 
-<br/>
+<p>&nbsp;</p>
 
 ### Hi there 👋
 
