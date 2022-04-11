@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="./assets/git1-01.jpg" />
+<img align="center" width="100%" src="./git1-01.jpg" />
 
 ### Hi there 👋
 
