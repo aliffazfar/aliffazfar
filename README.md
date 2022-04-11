@@ -1,6 +1,6 @@
 ## Hi there, I'm Aliff 👋
 
-<img align="center" width="100%" src="./assets/git1.png" />
+<img align="center" width="100%" src="./assets/git1.jpg" />
 
 I'm from Malaysia and I love doing content on Web Design and Development. I'm now learning new programming languages such as ReactJS and React Native, which I'm finding to be really enjoyable.
 
