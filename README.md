@@ -8,7 +8,7 @@
 - 🎓 Bachelor in Computer Science (Hons.)
 - 🌱 Learning ReactJS and React Native
 - 🔥 Looking for an amazing dev? Reach out!
-- 🎃 Hobbies include hiking, travelling, cooking, and eating.
+- 🏂 Hobbies include hiking, travelling, cooking, and eating.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aliffazfar&count_private=true&show_icons=true&theme=dark" />
 
