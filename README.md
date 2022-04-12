@@ -1,5 +1,5 @@
 
-![image description](./src/git2.png)
+![image description](https://raw.githubusercontent.com/aliffazfar/aliffazfar/master/src/git2.png)
 
 ### Hi there 👋
 
