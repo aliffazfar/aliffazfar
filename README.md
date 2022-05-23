@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🚀 My Portfolio Website [Booooom!](https://aliffazfar.vercel.app/)
+- 🚀 My Portfolio Website [Click Me!](https://aliffazfar.vercel.app/)
 - ✨ Reach out my Linkedin [Aliff Azfar](https://www.linkedin.com/in/aliff-azfar-a0b201213/)
 - 🎓 Bachelor in Computer Science (Hons.)
 - 🌱 Learning ReactJS and React Native
