@@ -1,5 +1,4 @@
 
-![image description](https://raw.githubusercontent.com/aliffazfar/aliffazfar/master/src/git2.png)
 
 ### Hi there 👋
 
