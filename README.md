@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔥 React Native Developer @Aleph-Labs Malaysia
+- 🔥 React Native Developer 
 - 🚀 My Portfolio Website [Click Me!](https://aliffazfar.vercel.app/)
 - ✨ Reach out my Linkedin [Aliff Azfar](https://www.linkedin.com/in/aliff-azfar-a0b201213/)
 - 🎓 Bachelor in Computer Science (Hons.)
